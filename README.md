@@ -2,7 +2,7 @@
 
 ## About Me
 
-💻 Software Test Engineer (2 Years Experience)
+💻 Associate Software Engineer (2 Years Experience)
 
 🔐 Cybersecurity Enthusiast
 
