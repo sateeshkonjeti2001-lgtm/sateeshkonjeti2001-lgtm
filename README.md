@@ -8,7 +8,7 @@
 
 🚀 Building SateLabs – Cybersecurity Learning Platform
 
-👕 Founder of Midnxt Clothing
+👕 Midnxt Clothing
 
 ---
 
