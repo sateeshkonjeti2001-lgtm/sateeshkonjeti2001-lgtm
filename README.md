@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Sateesh 👋
 
-<!--
-**sateeshkonjeti2001-lgtm/sateeshkonjeti2001-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+💻 Software Test Engineer (2 Years Experience)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Cybersecurity Enthusiast
+
+🚀 Building SateLabs – Cybersecurity Learning Platform
+
+👕 Founder of Midnxt Clothing
+
+---
+
+## Skills
+
+- Python
+- Django
+- FastAPI
+- React
+- PostgreSQL
+- Selenium
+- Manual Testing
+- OWASP ZAP
+- Kali Linux
+- Nmap
+- Wireshark
+- Git & GitHub
+
+---
+
+## Projects
+
+### 🛍 Midnxt
+Official Clothing E-commerce Platform built with Django and React.
+
+### 🔐 SateLabs
+Cybersecurity Learning Platform with Labs, Quizzes and Certificates.
+
+### 🛡 OWASP ZAP Automation
+Web Application Vulnerability Assessment using OWASP ZAP.
+
+---
+
+## Currently Learning
+
+- VAPT
+- Penetration Testing
+- API Security
+- DevSecOps
+
+---
+
+## Connect With Me
+
+- LinkedIn
+- GitHub
